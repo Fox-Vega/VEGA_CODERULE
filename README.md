@@ -10,7 +10,9 @@ USE_name
 name_PIN  
 REC_name  
 name_MODE  
-LAST_name
+LAST_name time  
+PREV_name value
+
 
 Deg  
 name_deg name_azimuth
