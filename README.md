@@ -2,7 +2,7 @@
 run - move a part  
 read - read a sensor  
 get - get stat/value  
-fetch - read and get 
+fetch - read and get  
 set - set mode  
 
 
