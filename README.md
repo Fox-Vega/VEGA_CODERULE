@@ -1,6 +1,6 @@
 # VEGA_CODERULE
 run - move a part  
-read - read sensor/message
+read - read sensor/message 
 get - get stat/value  
 fetch - read and get  
 set - set mode  
