@@ -1,4 +1,4 @@
-# VEGA Coding Rules
+# VEGA CodeRule
 
 VEGA プロジェクトで使用する **動詞ルール（関数名）** と **変数・定数の命名規則** をまとめたガイドライン。
 
