@@ -10,8 +10,9 @@ USE_name
 name_PIN  
 REC_name  
 name_MODE  
-LAST_name time  
-PREV_name value
+LAST_name - time  
+PREV_name - value
+name_LIMIT
 
 
 Deg  
