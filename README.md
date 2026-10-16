@@ -24,6 +24,7 @@ VEGA プロジェクトで使用する **動詞ルール（関数名）** と **
 - **object_UPDATEms** — 前回の更新
 - **object_STARTms** — 開始時刻
 - **object_ENDms** — 終了時刻
+- **object_VALUE** — 数値
 - **object_PREV** — 前回値
 - **object_LIMIT** — 制限値
 - **object_ZONE** — エリア・範囲
