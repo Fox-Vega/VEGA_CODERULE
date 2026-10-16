@@ -17,21 +17,21 @@ VEGA プロジェクトで使用する **動詞ルール（関数名）** と **
 ## 2. 命名規則（変数・定数）
 
 ### 基本形式
-- **name_USE** — 使用するか
-- **name_PIN** — ピン番号
-- **name_REC** — 記録
-- **name_MODE** — モード
-- **name_UPDATE_ms** — 前回の更新
-- **name_START_ms** — 開始時刻
-- **name_END_ms** — 終了時刻
-- **name_PREV** — 前回値
-- **name_LIMIT** — 制限値
-- **name_ZONE** — エリア・範囲
-- **name_SET** — セット済みか
-- **name_NUM** — センサー個数など
+- **<object>_USE** — 使用するか
+- **<object>_PIN** — ピン番号
+- **<object>_REC** — 記録
+- **<object>_MODE** — モード
+- **<object>_UPDATEms** — 前回の更新
+- **<object>_STARTms** — 開始時刻
+- **<object>_ENDms** — 終了時刻
+- **<object>_PREV** — 前回値
+- **<object>_LIMIT** — 制限値
+- **<object>_ZONE** — エリア・範囲
+- **<object>_SET** — セット済みか
+- **<object>_NUM** — センサー個数など
 
 ### 推奨
-- **name_DEG** — 角度（度）
-- **name_AZIMUTH** — 方位角（機体正面を基点とした0-360の角度）
-- **name_RELATIVE_AZIMUTH** — 相対角（機体正面を基点とした-180-180の角度）
-- **name_WORLD_AZIMTUH** — 方位角（相手ゴールを基点とした0-360の角度）
+- **<object>_ANGLE** — 角度
+- **<object>_REL_AZIMUTH** — 相対方位角（機体の中心から見た時、機体の正面を0とした0-360の角度）
+- **<object>_REL_ANGLE** — 相対角（機体の中心から見た時、機体の正面を0とした-180-180の角度）
+- **<object>_GLOBAL_AZIMUTH** — 絶対方位角（コートの中心から見た時、相手ゴールの中央を0とした0-360の角度）
