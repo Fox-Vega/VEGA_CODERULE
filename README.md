@@ -17,14 +17,14 @@ VEGA プロジェクトで使用する **動詞ルール（関数名）** と **
 ## 2. 命名規則（変数・定数）
 
 ### 基本形式
-- **USE_name** — 使用するか
+- **name_USE** — 使用するか
 - **name_PIN** — ピン番号
-- **REC_name** — 記録
+- **name_REC** — 記録
 - **name_MODE** — モード
-- **LAST_name** — 前回の更新
-- **name_START** — 開始時刻
-- **name_END** — 終了時刻
-- **PREV_name** — 前回値
+- **name_UPDATE_ms** — 前回の更新
+- **name_START_ms** — 開始時刻
+- **name_END_ms** — 終了時刻
+- **name_PREV** — 前回値
 - **name_LIMIT** — 制限値
 - **name_ZONE** — エリア・範囲
 - **name_SET** — セット済みか
