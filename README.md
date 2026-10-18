@@ -30,6 +30,7 @@ VEGA プロジェクトで使用する **動詞ルール（関数名）** と **
 - **object_ZONE** — エリア・範囲
 - **object_SET** — セット済みか
 - **object_NUM** — センサー個数など
+- **object_SPEED** — 速度
 
 ### 推奨
 - **object_ANGLE** — 角度
