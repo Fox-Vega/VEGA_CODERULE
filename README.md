@@ -31,8 +31,8 @@ VEGA プロジェクトで使用する **動詞ルール（関数名）** と **
 - **object_SET** — セット済みか
 - **object_NUM** — センサー個数など
 - **object_SPEED** — 速度
-
-### 推奨
+- **object_RADIUS** — 半径
+- **object_DIAMETER** — 直径
 - **object_ANGLE** — 角度
 - **object_REL_AZIMUTH** — 相対方位角（機体の中心から見た時、機体の正面を0とした0-360の角度）
 - **object_REL_LINE_AZIMUTH** — 相対方位角（機体の中心から見た時、白線に対する垂線と白線との交点を0とした0-360の角度）
