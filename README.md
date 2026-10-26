@@ -51,7 +51,7 @@
 
 - **MIN_object_tag_** — 最小
 - **MAX_object_tag** — 最大
-- **object_tag_** — 仮
+- **PRE_object_tag** — 仮
 
 ---
 
