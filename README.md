@@ -30,6 +30,7 @@
 - **object_LIMIT** — 制限値
 - **object_ZONE** — （片側の）エリア・範囲
 - **object_SIZE** — 大きさ
+- **object_RATIO** — 最大出力に対する出力割合
 - **object_SET** — セットフラグ
 - **object_NUM** — 個数・番号
 - **object_SPEED** — 速度
