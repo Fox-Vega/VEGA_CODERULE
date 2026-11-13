@@ -1,4 +1,5 @@
-# VEGA CodeRule
+# VEGA CodeRule  
+VEGAが2026-27シーズンで使用する命名規則
 
 ---
 
